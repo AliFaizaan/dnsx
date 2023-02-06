@@ -6,7 +6,7 @@ require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/miekg/dns v1.1.48
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/clistats v0.0.8
+	github.com/projectdiscovery/clistats v0.0.12
 	github.com/projectdiscovery/fileutil v0.0.0-20220308101036-16c79af1cf5d
 	github.com/projectdiscovery/goconfig v0.0.0-20210804090219-f893ccd0c69c
 	github.com/projectdiscovery/goflags v0.0.7
@@ -42,17 +42,19 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/karrick/godirwalk v1.16.1 // indirect
 	github.com/klauspost/compress v1.11.7 // indirect
-	github.com/kr/pretty v0.2.1 // indirect
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/onsi/ginkgo v1.16.4 // indirect
 	github.com/onsi/gomega v1.16.0 // indirect
 	github.com/projectdiscovery/blackrock v0.0.0-20210903102120-5a9d2412d21d // indirect
+	github.com/projectdiscovery/freeport v0.0.4 // indirect
 	github.com/projectdiscovery/reflectutil v0.0.0-20210804085554-4d90952bf92f // indirect
 	github.com/projectdiscovery/retryablehttp-go v1.0.2 // indirect
 	github.com/projectdiscovery/sliceutil v0.0.0-20220225084130-8392ac12fa6d // indirect
 	github.com/projectdiscovery/stringsutil v0.0.0-20220208075244-7c05502ca8e9 // indirect
+	github.com/rogpeppe/go-internal v1.9.0 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	go.etcd.io/bbolt v1.3.5 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
@@ -66,5 +68,5 @@ require (
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/ini.v1 v1.66.3 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
